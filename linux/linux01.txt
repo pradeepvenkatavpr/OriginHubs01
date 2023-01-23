@@ -1,0 +1,22 @@
+
+A	 	 
+ 	&	Start a new process in the background
+ 	alias	Create an alias •
+ 	apropos	Search Help manual pages (man -k)
+ 	apt	Search for and install software packages (Debian/Ubuntu)
+ 	apt-get	Search for and install software packages (Debian/Ubuntu)
+ 	aptitude	Search for and install software packages (Debian/Ubuntu)
+ 	aspell	Spell Checker
+ 	at	Schedule a command to run once at a particular time
+ 	awk	Find and Replace text, database sort/validate/index
+B	 	 
+ 	basename	Strip directory and suffix from filenames
+ 	base32	Base32 encode/decode data and print to standard output
+ 	base64	Base64 encode/decode data and print to standard output
+ 	bash	GNU Bourne-Again SHell
+ 	bc	Arbitrary precision calculator language
+ 	bg	Send to background
+ 	bind	Set or display readline key and function bindings •
+ 	break	Exit from a loop •
+ 	builtin	Run a shell builtin
+ 	bzip2	Compress or decompress named file(s
